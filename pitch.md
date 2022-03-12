@@ -30,7 +30,7 @@ Design will be implemented in a way that is mobile first seeing as this would be
 # Note On Scope
 - Initially there will be a list of popular sources that will be used for the trending topic search. From this list the user will be allowed to add and or remove sources to their liking. A more user refined catalog of sources being the eventual outcome.
 
-![one](https://gist.github.com/dantiberi/d5f655be60b248f4f2e4df9335e47b0d?permalink_comment_id=4067745#gistcomment-4067745)
+![one](https://user-images.githubusercontent.com/46355366/154315760-2f7f8aec-568f-46df-9efe-d0bb38c7cbfd.png)
 
 ![two](https://gist.github.com/dantiberi/d5f655be60b248f4f2e4df9335e47b0d?permalink_comment_id=4073412#gistcomment-4073412)
 
