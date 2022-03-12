@@ -7,3 +7,6 @@
 - install dependencies with: $ npm install
 - start up with : $ npm start
 - view page at http://localhost:3000
+
+
+note: make sure to create your own branch to work on, thank you
