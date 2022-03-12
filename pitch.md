@@ -32,6 +32,6 @@ Design will be implemented in a way that is mobile first seeing as this would be
 
 ![one](https://user-images.githubusercontent.com/46355366/154315760-2f7f8aec-568f-46df-9efe-d0bb38c7cbfd.png)
 
-![two](https://gist.github.com/dantiberi/d5f655be60b248f4f2e4df9335e47b0d?permalink_comment_id=4073412#gistcomment-4073412)
+![two](https://user-images.githubusercontent.com/46355366/155013055-48c77feb-24af-44c7-bab3-f0b077cff05b.png)
 
-![three](https://gist.github.com/dantiberi/d5f655be60b248f4f2e4df9335e47b0d?permalink_comment_id=4073412#gistcomment-4073412)
+![three](https://user-images.githubusercontent.com/46355366/155013067-11017af6-4424-407d-824e-c0a8f843950b.png)
